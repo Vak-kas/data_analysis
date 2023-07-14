@@ -8,3 +8,6 @@
 서울에서 1904년 ~ 2019년 까지의 기후 데이터를 
 https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70
 에서 서울의 가장 기온이 높았던 날과 온도를 출력하기
+
+# unit2
+matplotlib.pyplot 모듈을 이용하여 그래프 그리는 기초적인 기능들 배우기
