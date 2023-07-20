@@ -11,3 +11,7 @@ https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70
 
 # unit2
 matplotlib.pyplot 모듈을 이용하여 그래프 그리는 기초적인 기능들 배우기
+
+# unit3
+서울에서 1983년 이후에 3월 7일의 최고 기온과 최저기온을 그래프로 그리기
+
